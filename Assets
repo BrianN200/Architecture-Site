@@ -1,0 +1,4 @@
+git status //check if in main branch
+git add .
+git commit -message1
+git push -origin main
